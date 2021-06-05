@@ -55,7 +55,7 @@
       "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://elite.finviz.com/quote.ashx?t=APPL",
+      "url": "https://elite.finviz.com/quote.ashx?t=AAPL",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     }
