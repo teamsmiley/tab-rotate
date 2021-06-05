@@ -5,29 +5,59 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://elite.finviz.com/quote.ashx?t=NET",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://elite.finviz.com/quote.ashx?t=AMZN",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://github.com/KevinSheedy/chrome-tab-rotate.git",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 300
+      "url": "https://elite.finviz.com/quote.ashx?t=TSLA",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://elite.finviz.com/quote.ashx?t=SOXL",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://ie.linkedin.com/in/kevinsheedy",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://elite.finviz.com/quote.ashx?t=NVDA",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=MRNA",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=TQQQ",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=FNGU",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=SNOW",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=ABNB",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=APPL",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 5
     }
   ]
 }
