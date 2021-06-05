@@ -6,57 +6,57 @@
   "websites": [
     {
       "url": "https://elite.finviz.com/quote.ashx?t=NET",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=AMZN",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=TSLA",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=SOXL",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=NVDA",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=MRNA",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=TQQQ",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=FNGU",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=SNOW",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=ABNB",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=APPL",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 5
     }
   ]
