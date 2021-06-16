@@ -73,6 +73,11 @@
       "url": "https://elite.finviz.com/quote.ashx?t=JPM",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=NFLX",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
     }
   ]
 }
