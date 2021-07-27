@@ -40,7 +40,7 @@
       "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://elite.finviz.com/quote.ashx?t=FNGU",
+      "url": "https://elite.finviz.com/quote.ashx?t=TECL",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
@@ -65,7 +65,7 @@
       "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://elite.finviz.com/quote.ashx?t=BAC",
+      "url": "https://elite.finviz.com/quote.ashx?t=PTRA",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
