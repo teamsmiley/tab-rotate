@@ -5,32 +5,17 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://elite.finviz.com/quote.ashx?t=NET",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 5
-    },
-    {
-      "url": "https://elite.finviz.com/quote.ashx?t=AMZN",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 5
-    },
-    {
       "url": "https://elite.finviz.com/quote.ashx?t=TSLA",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
+      "url": "https://elite.finviz.com/quote.ashx?t=NET",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
       "url": "https://elite.finviz.com/quote.ashx?t=SOXL",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 5
-    },
-    {
-      "url": "https://elite.finviz.com/quote.ashx?t=NVDA",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 5
-    },
-    {
-      "url": "https://elite.finviz.com/quote.ashx?t=MRNA",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
@@ -45,12 +30,17 @@
       "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://elite.finviz.com/quote.ashx?t=SNOW",
+      "url": "https://elite.finviz.com/quote.ashx?t=AMZN",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://elite.finviz.com/quote.ashx?t=ABNB",
+      "url": "https://elite.finviz.com/quote.ashx?t=NVDA",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=MRNA",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
@@ -61,6 +51,16 @@
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=MSFT",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=SNOW",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=ABNB",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     },
@@ -76,6 +76,16 @@
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=NFLX",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=HOOD",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=CFLT",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     }
