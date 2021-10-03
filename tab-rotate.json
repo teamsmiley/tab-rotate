@@ -10,6 +10,11 @@
       "tabReloadIntervalSeconds": 5
     },
     {
+      "url": "https://elite.finviz.com/quote.ashx?t=BULZ",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
       "url": "https://elite.finviz.com/quote.ashx?t=NET",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
