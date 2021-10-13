@@ -70,11 +70,6 @@
       "tabReloadIntervalSeconds": 5
     },
     {
-      "url": "https://elite.finviz.com/quote.ashx?t=PTRA",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 5
-    },
-    {
       "url": "https://elite.finviz.com/quote.ashx?t=JPM",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
@@ -101,6 +96,16 @@
     },
     {
       "url": "https://elite.finviz.com/quote.ashx?t=OOMA",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=PYPL",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=SQ",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
     }
