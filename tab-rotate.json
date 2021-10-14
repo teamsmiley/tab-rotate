@@ -108,6 +108,11 @@
       "url": "https://elite.finviz.com/quote.ashx?t=SQ",
       "duration": 10,
       "tabReloadIntervalSeconds": 5
+    },
+    {
+      "url": "https://elite.finviz.com/quote.ashx?t=GTLB",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 5
     }
   ]
 }
